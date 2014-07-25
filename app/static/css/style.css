@@ -1,0 +1,49 @@
+@import url(http://fonts.googleapis.com/css?family=Limelight);
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+body{
+  margin: 0px;
+  background-color: lightblue;
+}
+
+h1{
+  border: 3px solid #5BB200;
+  font-family: 'Limelight', cursive;
+  color: #82ff00;
+  background-color: #9c02b2;
+  font-size: 75px;
+  letter-spacing: 7px;
+  padding: 20px;
+  margin: 0px;
+}
+
+nav{
+  margin-top: 25px;
+}
+
+a{
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+  color: red;
+  border: 1px dotted black;
+  padding: 5px;
+  margin: 5px;
+  font-size: 25px;
+}
+
+a:hover{
+  text-decoration: underline;
+  color: blue;
+  background-color: red;
+}
+
+.super {
+  color: red;
+  margin: 10px;
+  font-size: 25px;
+}
+
+#awesome {
+  color: blue;
+  margin: 10px;
+  font-size: 25px;
+}
