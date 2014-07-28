@@ -15,11 +15,10 @@ pirates
 
 
 ```
-### VIEWS
+### STATIC
 ``` 
-- feature 1
-- feature 2
-- feature 3
+- Images
+- CSS
 
 ```
 ### Running Tests
